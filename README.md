@@ -1,4 +1,4 @@
-# Hi there, I'm mrayanasim! 👋
+# Hi there, I'm MRayan Asim! 👋
 
 I'm a Python developer and a student based in Pakistan 🇵🇰, passionate about coding and exploring the realms of machine learning and data science.
 
