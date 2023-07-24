@@ -26,3 +26,5 @@ Feel free to explore my repositories, including my [Python Projects Repository](
 
 
 Happy coding! 😊
+
+<a href="https://app.daily.dev/mrayanasim"><img src="https://api.daily.dev/devcards/083ca7fb8275438ab70de4e296ca87d0.png?r=4ua" width="400" alt="MRayan Asim's Dev Card"/></a>
