@@ -7,27 +7,31 @@
 
 - 🌱 I’m currently learning **Machine learning, Game development**
 
-- 📝 I regularly write articles on [Developer community](https://dev.to/mrayanasim09/python-projects-from-beginner-to-advance-jk9)
+- 📝 I regularly write articles on [https://dev.to/mrayanasim09/python-projects-from-beginner-to-advance-jk9](https://dev.to/mrayanasim09/python-projects-from-beginner-to-advance-jk9)
 
 - 💬 Ask me about **python, Javascript, Android**
 
 - 📫 How to reach me **mrayanasim09@gmail.com**
 
-- 📄 [ Know about my experiences](https://www.gitshowcase.com/mrayanasim09)
+- 📄 Know about my experiences [https://www.gitshowcase.com/mrayanasim09](https://www.gitshowcase.com/mrayanasim09)
 
-- ⚡ Fun fact **I am a developer with a mathematician**
+- ⚡ Fun fact **I am developer with a mathematician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mrayanasim09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrayanasim09" height="30" width="40" /></a>
 <a href="https://dev.to/mrayanasim09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrayanasim09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrayan asim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrayan asim" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21992195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21992195" height="30" width="40" /></a>
 <a href="https://kaggle.com/mrayanasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrayanasim" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mrayanasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mrayanasim" height="30" width="40" /></a>
 <a href="https://medium.com/@mrayanasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrayanasim" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mrayanasim09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrayanasim09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mrayanasim09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrayanasim09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mrayanasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrayanasim" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mrayanasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mrayanasim" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mrayana3wki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mrayana3wki" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/mrayanasim09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mrayanasim09" height="30" width="40" /></a>
 <a href="https://discord.gg/zuUNxHzD3F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zuUNxHzD3F" height="30" width="40" /></a>
 </p>
 
