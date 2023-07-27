@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Machine learning, Game development**
 
-- 📝 I regularly write articles on [https://dev.to/mrayanasim09/python-projects-from-beginner-to-advance-jk9](https://dev.to/mrayanasim09/python-projects-from-beginner-to-advance-jk9)
+- 📝 I regularly write articles on [Developer community](https://dev.to/mrayanasim09/python-projects-from-beginner-to-advance-jk9)
 
 - 💬 Ask me about **python, Javascript, Android**
 
 - 📫 How to reach me **mrayanasim09@gmail.com**
 
-- 📄 Know about my experiences [https://www.gitshowcase.com/mrayanasim09](https://www.gitshowcase.com/mrayanasim09)
+- 📄 [ Know about my experiences](https://www.gitshowcase.com/mrayanasim09)
 
-- ⚡ Fun fact **I am developer with a mathematician**
+- ⚡ Fun fact **I am a developer with a mathematician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
