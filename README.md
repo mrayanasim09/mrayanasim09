@@ -41,8 +41,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrayanasim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrayanasim" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrayanasim09&show_icons=true&locale=en&layout=compact" alt="mrayanasim09" /></p>
+![mrayanasim09's Stats](https://github-readme-stats.vercel.app/api?username=mrayanasim09&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrayanasim09&show_icons=true&locale=en" alt="mrayanasim09" /></p>
+![mrayanasim09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrayanasim09&theme=vue-dark&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrayanasim09&" alt="mrayanasim09" /></p>
+![mrayanasim09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrayanasim09&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
