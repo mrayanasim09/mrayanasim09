@@ -10,7 +10,6 @@
 I'm a student developer working across Python, machine learning, and — most recently — computational astrodynamics. I'm currently conducting a solo research project on satellite collision-avoidance policy robustness under covariance miscalibration.
 
 - **Currently working on:** a satellite collision-avoidance research project
-- **Writing:** [dev.to/mrayanasim09](https://dev.to/mrayanasim09)
 - **Reach me:** mrayanasim09@gmail.com
 
 ### Connect
