@@ -7,14 +7,11 @@
 
 ### About
 
-I'm a student developer working across Python, machine learning, and — most recently — computational astrodynamics. I'm currently conducting a solo research project on satellite collision-avoidance policy robustness under covariance miscalibration, aimed at the IAC Student Paper Competition and IEEE student conferences.
+I'm a student developer working across Python, machine learning, and — most recently — computational astrodynamics. I'm currently conducting a solo research project on satellite collision-avoidance policy robustness under covariance miscalibration.
 
-- 🔭 **Currently working on:** [Python Projects](https://github.com/mrayanasim09/python-projects) and a satellite collision-avoidance research project
-- 🌱 **Currently learning:** Machine learning, game development
-- 📝 **Writing:** [dev.to/mrayanasim09](https://dev.to/mrayanasim09)
-- 💬 **Ask me about:** Python, JavaScript, Android, orbital mechanics
-- 📫 **Reach me:** mrayanasim09@gmail.com
-- 🤝 **Open to:** collaboration on space-tech, scientific computing, or ML projects
+- **Currently working on:**a satellite collision-avoidance research project
+- **Writing:** [dev.to/mrayanasim09](https://dev.to/mrayanasim09)
+- **Reach me:** mrayanasim09@gmail.com
 
 ### Connect
 
